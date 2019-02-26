@@ -2,6 +2,8 @@
 
 Every documents that I learned and experienced.
 
+Also visit my [blog](https://hides.tistory.com)
+
 ## DevOps
 
 - [Docker-compose로 Nginx/Flask/MongoDB 배포하는 방법](https://hides.tistory.com/977)
