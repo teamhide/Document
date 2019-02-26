@@ -28,6 +28,12 @@ Every documents that I learned and experienced.
 - [Python Celery Redis연동하는 방법](https://hides.tistory.com/973)
 - [Python TDD(Test Driven Development) 맛보기](https://hides.tistory.com/975)
 - [Python Observer Pattern 맛보기](https://hides.tistory.com/1007)
+- [Python Blind SQL Injection with MultiProcessing](https://hides.tistory.com/769)
+- [Django Restframework 인증 권한 설정 방법](https://hides.tistory.com/806)
+- [Django Restframework로 Rest API 만드는 방법](https://hides.tistory.com/805)
+- [Django 외래키(Foreign Key) 생성 방법 및 관련 이슈](https://www.hides.kr/843)
+- [Django Restframework 다른 테이블 Join 시키는 방법](https://hides.tistory.com/846)
+- [충남대 학식알림봇 정리](https://hides.tistory.com/937)
 
 
 ## ETC
@@ -39,3 +45,10 @@ Every documents that I learned and experienced.
 - [Git flow와 Branch merge에 대해서](https://hides.tistory.com/963)
 - [Webpack4로 Bundling하는 방법](https://hides.tistory.com/969)
 - [React-Native KeyboardAvoidingView로 키보드 가림현상 해결 방법](https://hides.tistory.com/854)
+- [React.js Redux 컴포넌트 여러개 연결하는 방법](https://hides.tistory.com/833)
+- [React-Native Collapsible로 Dropdown 만드는 방법](https://hides.tistory.com/880)
+- [구글 개발자 등록 및 어플 등록 방법](https://hides.tistory.com/882)
+- [React-Native DrawerNavigation 사용하는 방법](https://hides.tistory.com/891)
+- [React Redux 정리](https://hides.tistory.com)
+
+
