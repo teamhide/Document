@@ -14,6 +14,8 @@ Every documents that I learned and experienced.
 - [AWS Lambda + API Gateway로 API만드는 방법](https://hides.tistory.com/992)
 - [ECS에 AutoScailing 적용하는 방법](https://hides.tistory.com/1003)
 - [Terraform으로 AWS ECS+ALB 구축 자동화](https://github.com/teamhide/terraform_ecr)
+- [AWS SecretManager로 도커 환경변수 적용 방법](https://www.hides.kr/1008)
+- [Django + Uwsgi + Supervisor + Nginx Docker-compose와 연동하는 방법](https://www.hides.kr/1009)
 
 
 ## Python
