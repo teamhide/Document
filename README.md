@@ -13,10 +13,12 @@ Every documents that I learned and experienced.
 - [ECS Multiple Instance 구동 및 ALB적용 방법](https://hides.tistory.com/991)
 - [AWS Lambda + API Gateway로 API만드는 방법](https://hides.tistory.com/992)
 - [ECS에 AutoScailing 적용하는 방법](https://hides.tistory.com/1003)
+- [Terraform으로 AWS ECS+ALB 구축 자동화](https://github.com/teamhide/terraform_ecr)
 
 
 ## Python
 
+- [Clean Architecture를 적용한 Django Restframework](https://github.com/teamhide/drf_cookiecutter)
 - [Django AbstractBaseUser로 Custom User모델 만드는 방법](https://hides.tistory.com/938)
 - [Django + Nginx CORS헤더 문제 해결 방법](https://hides.tistory.com/934)
 - [Django Restframework JWT 토큰 인증 커스터마이징](https://hides.tistory.com/941)
