@@ -9,5 +9,10 @@ Every documents that I learned and experienced.
 
 ## Python
 
+- [Django AbstractBaseUser로 Custom User모델 만드는 방법]: https://hides.tistory.com/938
+- 2
+
+## ETC
+
 - 1
 - 2
