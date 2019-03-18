@@ -18,12 +18,14 @@ Also visit my [blog](https://hides.tistory.com)
 - [Terraform으로 AWS ECS+ALB 구축 자동화](https://github.com/teamhide/terraform_ecr)
 - [AWS SecretManager로 도커 환경변수 적용 방법](https://www.hides.kr/1008)
 - [Django + Uwsgi + Supervisor + Nginx Docker-compose와 연동하는 방법](https://www.hides.kr/1009)
+- [AWS CodeDeploy로 ECS Blue/Green 배포하는 방법](https://hides.tistory.com/1013)
+
 
 
 ## Python
 
 - [Clean Architecture를 적용한 Django Restframework](https://github.com/teamhide/drf_cookiecutter)
-- [Django AbstractBaseUser로 Custom User모델 만드는 방법](https://hides.tistory.com/938)
+- [Django AbstractBaseUser로 Custom User모델 만드는 방법](https://hides.tistory.com/1010)
 - [Django + Nginx CORS헤더 문제 해결 방법](https://hides.tistory.com/934)
 - [Django Restframework JWT 토큰 인증 커스터마이징](https://hides.tistory.com/941)
 - [Python *args, **kwargs란 무엇인가](https://hides.tistory.com/962)
@@ -36,6 +38,7 @@ Also visit my [blog](https://hides.tistory.com)
 - [Django 외래키(Foreign Key) 생성 방법 및 관련 이슈](https://www.hides.kr/843)
 - [Django Restframework 다른 테이블 Join 시키는 방법](https://hides.tistory.com/846)
 - [충남대 학식알림봇 정리](https://hides.tistory.com/937)
+- [Django AWS Elasticache 적용하는 방법](https://hides.tistory.com/1011)
 
 
 ## ETC
