@@ -19,6 +19,7 @@ Also visit my [blog](https://hides.tistory.com)
 - [AWS SecretManager로 도커 환경변수 적용 방법](https://www.hides.kr/1008)
 - [Django + Uwsgi + Supervisor + Nginx Docker-compose와 연동하는 방법](https://www.hides.kr/1009)
 - [AWS CodeDeploy로 ECS Blue/Green 배포하는 방법](https://hides.tistory.com/1013)
+- [AWS ECS Blue/Green CodeDeploy 연동 배포 자동화 스크립트](https://hides.tistory.com/1033)
 
 
 
@@ -39,7 +40,9 @@ Also visit my [blog](https://hides.tistory.com)
 - [Django Restframework 다른 테이블 Join 시키는 방법](https://hides.tistory.com/846)
 - [충남대 학식알림봇 정리](https://hides.tistory.com/937)
 - [Django AWS Elasticache 적용하는 방법](https://hides.tistory.com/1011)
-
+- [Python 일급함수/클로저/Decorator에 관해서](https://hides.tistory.com/1027)
+- [Django Custom Command 만드는 방법](https://hides.tistory.com/1024)
+- [Django QuerySet에 대하여](https://hides.tistory.com/1021)
 
 ## ETC
 
@@ -55,5 +58,6 @@ Also visit my [blog](https://hides.tistory.com)
 - [구글 개발자 등록 및 어플 등록 방법](https://hides.tistory.com/882)
 - [React-Native DrawerNavigation 사용하는 방법](https://hides.tistory.com/891)
 - [React Redux 정리](https://hides.tistory.com)
+- [Docker Crontab 관련 이슈사항 정리](https://hides.tistory.com/1023)
 
 
